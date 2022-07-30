@@ -4,6 +4,8 @@
 <img src="images/Capture.PNG"  height="auto" width="100%">
 </p>
 
+> JSON Server is a Node Module that you can use to create demo rest json webservice in less than a minute. All you need is a JSON file for sample data.
+
 # Features
 
 - [x] Fullstack App Built in React 18
@@ -41,7 +43,7 @@ To run this project locally:
 - Clone the repo
 - Run `npm install`
 - Concurrently — (NPM Package) is used to run both the backend server and frontend so therefore; start the application with:
-  - `npm run dev` : Start Application
+  - `npm run dev` : Start Application (run frontend and backend using concurrently)
 
 # Build Instructions
 
